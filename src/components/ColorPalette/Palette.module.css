@@ -1,0 +1,31 @@
+* {
+  font-family: "Dancing Script", cursive;
+  color: #fff;
+}
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.colorsSection {
+  width: 45%;
+  height: auto;
+  margin: 0 30px;
+  padding: 10px;
+  border: 2px solid #2ac5b8;
+  border-radius: 5px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.button {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  margin: 8px;
+  border: none;
+}
+
+.button:hover {
+  cursor: pointer;
+}
