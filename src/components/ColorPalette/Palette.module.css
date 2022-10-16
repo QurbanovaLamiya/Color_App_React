@@ -15,6 +15,7 @@ section {
   border: 2px solid #2ac5b8;
   border-radius: 5px;
   display: flex;
+  justify-content: space-between;
   flex-wrap: wrap;
 }
 
